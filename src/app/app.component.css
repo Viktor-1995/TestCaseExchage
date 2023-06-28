@@ -1,0 +1,20 @@
+
+.show-currency{
+    display: flex;
+    margin: 1rem auto;
+    width:40% ;
+    justify-content:space-between;
+}
+.show-currency div{
+    width:100px;
+}
+.header{
+    display: flex;
+    width: 40%;
+    margin:1rem auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.header div{
+    margin: 1rem;
+}
